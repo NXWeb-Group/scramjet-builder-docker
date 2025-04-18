@@ -5,7 +5,7 @@
 - [Docker](https://docs.docker.com/engine/install/)
 
 ```bash
-git clone https://github.com/NXWeb-Group/Supernova-V2.git
+git clone https://github.com/NXWeb-Group/scramjet-builder-docker.git
 cd scramjet-builder-docker
 ```
 
