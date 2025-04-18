@@ -3,7 +3,7 @@ FROM rust:latest
 WORKDIR /app
 
 ENV NODE_VERSION=22.14.0
-ENV BINARYEN_VERSION=117
+ENV BINARYEN_VERSION=123
 
 RUN wget https://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}-linux-x64.tar.xz && \
     tar -xf node-v${NODE_VERSION}-linux-x64.tar.xz && \
